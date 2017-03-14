@@ -21,8 +21,8 @@ BootStrapをベースにした1カラムレイアウト。
 |GoogleChrome 最新版|○|○|○|  
 |Firefox 最新版|○|○|×|  
 |iOS 10~|×|×|○|  
-|AndroidOS 5.0~|×|×|○|    
- 
+|AndroidOS 5.0~|×|×|○|  
+
  
  
 ## ディレクトリ構造  
